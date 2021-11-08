@@ -586,7 +586,13 @@
       "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/20210817_090447.jpg",
       "name": "wall 98",
       "thumbnail": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/20210817_090447.jpg"
-      },
+   },
+   {
+      "author": "Yours Wallpaper",
+      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20211008_213919_919.png",
+      "name": "wall 99",
+      "thumbnail": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20211008_213919_919.png"
+    },
     {
       "author": "Yours Wallpaper",
       "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/20210818_094613.png",
@@ -892,5 +898,11 @@
       "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/20211103_090752_1635910804183.png",
       "name": "wall 150",
       "thumbnail": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/20211103_090752_1635910804183.png"
+    },
+    {
+      "author": "Yours Wallpaper",
+      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Alternative_fluid_01.png",
+      "name": "151",
+      "thumbnail": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Alternative_fluid_01.png"
    }
 ]
